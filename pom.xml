@@ -69,14 +69,14 @@
 	<distributionManagement>
 	<repository>
 		<id>Release</id>
-		<name>jenkinstask-rel</name>
-		<url>http://35.196.7.153:8081/repository/jenkinstask-rel/</url>
+		<name>deployrel</name>
+		<url>http://35.190.159.237:8081/repository/deployrel/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>Snapshot</id>
-		<name>jenkinstask-snap</name>
-		<url>http://35.196.7.153:8081/repository/jenkinstask-snap/</url>
+		<name>deploysnap</name>
+		<url>http://35.190.159.237:8081/repository/deploysnap/</url>
 	</snapshotRepository>
 </distributionManagement>
 
