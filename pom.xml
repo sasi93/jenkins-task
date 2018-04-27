@@ -70,13 +70,13 @@
 	<repository>
 		<id>Release</id>
 		<name>deployrel</name>
-		<url>http://35.190.159.237:8081/repository/deployrel/</url>
+		<url>http://35.229.22.31:8081/repository/deployrel/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>Snapshot</id>
 		<name>deploysnap</name>
-		<url>http://35.190.159.237:8081/repository/deploysnap/</url>
+		<url>http://35.229.22.31:8081/repository/deploysnap/</url>
 	</snapshotRepository>
 </distributionManagement>
 
